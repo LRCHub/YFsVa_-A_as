@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "GIRL LIKE ME",
+  "base_artist": "Black Eyed Peas",
+  "createdAt": "2026-02-10T05:50:56.723063Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "A Girl Like Me",
+      "artist": "Rihanna",
+      "has_synced": true,
+      "path": "select/01_A_Girl_Like_Me_Rihanna.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Take Me Home (A Girl Like Me)",
+      "artist": "Sophie Ellis-Bextor",
+      "has_synced": true,
+      "path": "select/02_Take_Me_Home_(A_Girl_Like_Me)_Sophie_Ellis-Bextor.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Take Me Home (A Girl Like Me)",
+      "artist": "Sophie Ellis-Bextor",
+      "has_synced": true,
+      "path": "select/03_Take_Me_Home_(A_Girl_Like_Me)_Sophie_Ellis-Bextor.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Take Me Home (A Girl Like Me) (Album Version)",
+      "artist": "Sophie Ellis-Bextor",
+      "has_synced": false,
+      "path": "select/04_Take_Me_Home_(A_Girl_Like_Me)_(Album_Version)_Sophie_Ellis-Bextor.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Take Me Home (A Girl Like Me) [Jewels & Stone Mix]",
+      "artist": "Sophie Ellis-Bextor",
+      "has_synced": false,
+      "path": "select/05_Take_Me_Home_(A_Girl_Like_Me)_[Jewels_&_Stone_Mix]_Sophie_Ellis-Bextor.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Take Me Home (A Girl Like Me) (Jewels & Stone Mix)",
+      "artist": "Sophie Ellis-Bextor",
+      "has_synced": false,
+      "path": "select/06_Take_Me_Home_(A_Girl_Like_Me)_(Jewels_&_Stone_Mix)_Sophie_Ellis-Bextor.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "A Girl Like Me",
+      "artist": "Suzi Quatro",
+      "has_synced": false,
+      "path": "select/07_A_Girl_Like_Me_Suzi_Quatro.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Girl Like Me",
+      "artist": "Ladyhawk",
+      "has_synced": false,
+      "path": "select/08_Girl_Like_Me_Ladyhawk.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Girl Like Me",
+      "artist": "Dove Cameron",
+      "has_synced": false,
+      "path": "select/09_Girl_Like_Me_Dove_Cameron.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Girl Like Me",
+      "artist": "Dove Cameron",
+      "has_synced": true,
+      "path": "select/10_Girl_Like_Me_Dove_Cameron.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "GIRL LIKE ME",
+      "artist": "Black Eyed Peas feat. Shakira",
+      "has_synced": true,
+      "path": "select/11_GIRL_LIKE_ME_Black_Eyed_Peas_feat._Shakira.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "GIRL LIKE ME",
+      "artist": "Black Eyed Peas, Shakira",
+      "has_synced": true,
+      "path": "select/12_GIRL_LIKE_ME_Black_Eyed_Peas,_Shakira.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Girl Like Me (feat. H.E.R.)",
+      "artist": "Jazmine Sullivan feat. H.E.R.",
+      "has_synced": true,
+      "path": "select/13_Girl_Like_Me_(feat._H.E.R.)_Jazmine_Sullivan_feat._H.E.R..lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Girl Like Me (feat. H.E.R.)",
+      "artist": "Jazmine Sullivan, H.E.R.",
+      "has_synced": true,
+      "path": "select/14_Girl_Like_Me_(feat._H.E.R.)_Jazmine_Sullivan,_H.E.R..lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "A Girl Like Me (Album Version)",
+      "artist": "Rihanna",
+      "has_synced": true,
+      "path": "select/15_A_Girl_Like_Me_(Album_Version)_Rihanna.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "A Girl Like Me",
+      "artist": "Christina Milian",
+      "has_synced": false,
+      "path": "select/16_A_Girl_Like_Me_Christina_Milian.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "GIRL LIKE ME (feat. Shakira)",
+      "artist": "Black Eyed Peas",
+      "has_synced": true,
+      "path": "select/17_GIRL_LIKE_ME_(feat._Shakira)_Black_Eyed_Peas.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "GIRL LIKE ME",
+      "artist": "Black Eyed Peas, Shakira",
+      "has_synced": false,
+      "path": "select/pl_01_GIRL_LIKE_ME_Black_Eyed_Peas,_Shakira.txt"
+    }
+  ]
+}
